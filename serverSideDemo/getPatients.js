@@ -48,6 +48,7 @@ async function main() {
       }
     })
     .then(betterData => {
+      console.log(betterData);
       return betterData;
     })
     .catch(err => {
