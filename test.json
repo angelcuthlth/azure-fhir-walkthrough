@@ -1,0 +1,9 @@
+{
+  "error": "invalid_request",
+  "error_description": "AADSTS900144: The request body must contain the following parameter: 'grant_type'.\\r\\nTrace ID: f68b1a90-6a52-489d-b3a5-319bbc977000\\r\\nCorrelation ID: 004c1e0e-5eb6-4cf3-90e7-b60acc53f112\\r\\nTimestamp: 2019-10-27 08:04:10Z",
+  "error_codes": [900144],
+  "timestamp": "2019-10-27 08:04:10Z",
+  "trace_id": "f68b1a90-6a52-489d-b3a5-319bbc977000",
+  "correlation_id": "004c1e0e-5eb6-4cf3-90e7-b60acc53f112",
+  "error_uri": "https://login.microsoftonline.com/error?code=900144"
+}
